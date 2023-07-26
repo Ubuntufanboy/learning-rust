@@ -19,7 +19,7 @@ fn main() {
             Err(_) => continue,
         };
         println!("Don't tell me you seriously guessed {guess}...");
-        match guess.cmp(&correct) {
+        match guess.(&correct) {
             Ordering::Less => println!("Too small!"),
             Ordering::Greater => println!("Too big!"),
             Ordering::Equal => {
