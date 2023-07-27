@@ -58,8 +58,8 @@ fn main() {
         billy.push_str(", World")
     }
     {
-        let thomas = &mut ss
-        thomas.push_str(", and all other planets!")
+        let thomas = &mut ss;
+        thomas.push_str(", and all other planets!");
     }
     // They both got to play with the toy can break it as much as they wanted
     let mut s = String::from("hello");
@@ -69,5 +69,15 @@ fn main() {
     let r3 = &mut s; // BIG PROBLEM
 
     println!("{}, {}, and {}", r1, r2, r3);
+
+    fn main() {
+        let reference_to_nothing = dangle();
+    }
+    
+    fn dangle() -> &String {
+        let s = String::from("hello");
+    
+        &s
+    }
 
 }

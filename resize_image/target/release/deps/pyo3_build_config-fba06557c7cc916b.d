@@ -1,0 +1,13 @@
+/workspaces/learning-rust/resize_image/target/release/deps/pyo3_build_config-fba06557c7cc916b.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.19.1/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.19.1/src/errors.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.19.1/src/impl_.rs /workspaces/learning-rust/resize_image/target/release/build/pyo3-build-config-ca82150f83069a29/out/pyo3-build-config-file.txt /workspaces/learning-rust/resize_image/target/release/build/pyo3-build-config-ca82150f83069a29/out/pyo3-build-config.txt
+
+/workspaces/learning-rust/resize_image/target/release/deps/libpyo3_build_config-fba06557c7cc916b.rlib: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.19.1/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.19.1/src/errors.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.19.1/src/impl_.rs /workspaces/learning-rust/resize_image/target/release/build/pyo3-build-config-ca82150f83069a29/out/pyo3-build-config-file.txt /workspaces/learning-rust/resize_image/target/release/build/pyo3-build-config-ca82150f83069a29/out/pyo3-build-config.txt
+
+/workspaces/learning-rust/resize_image/target/release/deps/pyo3_build_config-fba06557c7cc916b.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.19.1/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.19.1/src/errors.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.19.1/src/impl_.rs /workspaces/learning-rust/resize_image/target/release/build/pyo3-build-config-ca82150f83069a29/out/pyo3-build-config-file.txt /workspaces/learning-rust/resize_image/target/release/build/pyo3-build-config-ca82150f83069a29/out/pyo3-build-config.txt
+
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.19.1/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.19.1/src/errors.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.19.1/src/impl_.rs:
+/workspaces/learning-rust/resize_image/target/release/build/pyo3-build-config-ca82150f83069a29/out/pyo3-build-config-file.txt:
+/workspaces/learning-rust/resize_image/target/release/build/pyo3-build-config-ca82150f83069a29/out/pyo3-build-config.txt:
+
+# env-dep:OUT_DIR=/workspaces/learning-rust/resize_image/target/release/build/pyo3-build-config-ca82150f83069a29/out

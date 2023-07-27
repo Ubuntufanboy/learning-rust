@@ -1,0 +1,13 @@
+/workspaces/learning-rust/nearest/target/debug/deps/qoi-5054a51310006bb4.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/decode.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/encode.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/error.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/header.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/pixel.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/types.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/utils.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/consts.rs
+
+/workspaces/learning-rust/nearest/target/debug/deps/qoi-5054a51310006bb4.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/decode.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/encode.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/error.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/header.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/pixel.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/types.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/utils.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/consts.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/decode.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/encode.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/error.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/header.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/pixel.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/types.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/utils.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qoi-0.4.1/src/consts.rs:
